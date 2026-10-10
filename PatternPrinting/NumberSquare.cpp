@@ -11,8 +11,8 @@ int main()
     {
         for(int j=1;j<=col;j++)
         {
-            cout<<j<<" "; 
-            // cout<<i<<" "; // Number Square 2
+            // cout<<j<<" "; 
+            cout<<i<<" "; // Number Square 2
         }
  
        cout<<endl;
