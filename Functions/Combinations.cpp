@@ -14,6 +14,6 @@ int main()
     int n,r;
     cout<<"Enter n and r:";
     cin>>n>>r;
-    int Ans=fact(n)/(fact(r)*fact(n-r));
+    int Ans=fact(n)/(fact(r)*fact(n-r)); // ncr
     cout<<Ans;
 }
